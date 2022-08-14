@@ -47,12 +47,13 @@ projects:
   youtube: UCxOHt6h_aFeYcS7nnuXV1mw
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Programming
+    web_url: https://docs.wpilib.org/en/stable/index.html
+    image_url: https://docs.wpilib.org/en/stable/_static/wpilibDocsLogo.png
 
-  - name: Web design
+  - name: First Robotics Competition
+    web_url: https://www.firstinspires.org/robotics/frc
+    image_url: https://cdn.imgbin.com/23/24/8/imgbin-first-robotics-competition-first-tech-challenge-first-power-up-first-stronghold-for-inspiration-and-recognition-of-science-and-technology-robotics-fh00PjpaDihv3ZcNCtf1ZzbE6.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Building Robots
+    image_url: https://cdn.discordapp.com/attachments/927623390406250537/970384532094189598/unknown.png
